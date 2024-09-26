@@ -1,1 +1,1 @@
-The current project that I am working on is to make a pag ethat contains recipes. This will use my knowledge of links and images, along with organization of the folders within the project.
+The current project that I am working on is to make a website that contains recipes. This will use my knowledge of links and images, along with organization of the folders within the project.
